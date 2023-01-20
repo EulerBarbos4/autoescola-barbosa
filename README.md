@@ -1,5 +1,7 @@
 # Auto escola Barbosa
 
+# Projeto criado durante o Curso React Profissional do instrutor Bruno Nardini, na plataforma Udemy
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
